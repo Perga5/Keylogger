@@ -8,4 +8,4 @@ $ sudo apt install python3
 
 $ chmod 755 ./start.sh
 
-Skypt zaliczeniowy na ASSO
+Skrypt zaliczeniowy na ASSO
