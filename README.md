@@ -9,3 +9,4 @@ $ sudo apt install python3
 $ chmod 755 ./start.sh
 
 Skrypt zaliczeniowy na ASSO
+ 
