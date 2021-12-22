@@ -7,3 +7,5 @@ $ git clone https://github.com/Perga5/Keylogger.git
 $ sudo apt install python3
 
 $ chmod 755 ./start.sh
+
+Skypt zaliczeniowy na ASSO
