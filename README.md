@@ -1,9 +1,9 @@
 Skrypt automatycznie sie wyłacza po 10s nieurzywania 
 
 polecenia żeby odpalić:
-
+```bash
 $ git clone https://github.com/Perga5/Keylogger.git
-
+```
 $ sudo apt install python3
 
 $ chmod 755 ./start.sh
